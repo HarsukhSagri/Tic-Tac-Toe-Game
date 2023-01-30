@@ -1,0 +1,25 @@
+.board-row {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  color: #7c795d;
+}
+
+.board-container {
+  margin : 20px;
+  display: grid;
+  justify-content: center;
+  color: #ff4411
+}
+
+*{
+  box-sizing: border-box;
+}
+
+body{
+  margin:0;
+  background-color: #efefef ;
+  font-family: "Audiowide", sans-serif;
+  font-size: 2em;
+}
+
